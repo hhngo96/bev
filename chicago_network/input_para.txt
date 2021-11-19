@@ -1,0 +1,16 @@
+Maximum num of steps:	250
+Terminating Ngap:	1E-04
+Demand Level:		1.0
+First real node:	305
+Warm start or not:	0
+Proximity parameter:	0.15
+Step size:		0.2
+Demand changed(warm_st): 0
+Print flow evolution(0/1) :	1
+Freq of step size reduction:	50
+Reduction factor for stepSize:	0.8
+Prep files for MEUE or not(0/1):	1
+Minimum line search:	4
+Value of time($ per hr):	8
+Electricity cost($ per KW):	0.25
+Power transfer rate(KW per mile):	4
